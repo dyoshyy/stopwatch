@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.stopwatch-container {
+    margin-top: 20px;
+}
+
+.stopwatch {
+    font-size: 2em;
+}
+
+.user-input {
+    margin-top: 10px;
+}
